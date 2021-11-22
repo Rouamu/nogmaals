@@ -1,7 +1,5 @@
 getal1 = 50
-
 getal2 = 51
-
 answer = 0
 
 while answer < 1000:

@@ -8,10 +8,10 @@ donderdag="Donderdag"
 vrijdag="Vrijdag"
 zaterdag="Zaterdag"
 zondag="Zondag"
-dag = input("welke dag wilt je zien?")
+dag = input("welke dag wilt u zien?")
 
 while dag == "maandag":
-    print ("maandag")
+    print (maandag)
     break
 if dag == "dinsdag":
     print(maandag,dinsdag)
@@ -25,3 +25,4 @@ elif dag == "zaterdag":
     print(maandag,'',dinsdag,'',woensdag,'',donderdag,'',vrijdag,'',zaterdag)
 elif dag == "zondag":
     print(maandag,'',dinsdag,'',woensdag,'',donderdag,'',vrijdag,'',zaterdag,'',zondag)
+
